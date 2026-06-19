@@ -86,9 +86,8 @@ An e-commerce platform focused on the Kenyan market.
 ## 🤝 Let's Connect
 
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile
-- Email: your@email.com
-
+- LinkedIn: https://www.linkedin.com/in/hamisi-juma-069771310/
+- Email: hamisikapoun@gmail.com
 ---
 
 ⭐ Thanks for visiting my profile!
