@@ -85,7 +85,7 @@ An e-commerce platform focused on the Kenyan market.
 
 ## 🤝 Let's Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Kapoun
 - LinkedIn: https://www.linkedin.com/in/hamisi-juma-069771310/
 - Email: hamisikapoun@gmail.com
 ---
